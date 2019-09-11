@@ -14,9 +14,9 @@
         $buttonMargins: 2px;
         $buttonHeight: $action-bar-height - 2*$borderSize - 2*$buttonMargins;
 
-        &:not(".text-inherit") {
-            font-size: $font-size-base;
-        }
+//         &:not(".text-inherit") {
+//             font-size: $font-size-base;
+//         }
         padding: 0 $btn-padding-x-sm;
         margin: $buttonMargins 0 $buttonMargins 0;
 
